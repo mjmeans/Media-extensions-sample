@@ -8,5 +8,5 @@ New projects:
 - MediaExtension.Universal: A UWP App. This works with the Windows 8.1 Runtime Components in Media Extensions.
 - GrayscaleTransform.Universal: An attempt to create a C++ Windows Runtime Component project using the shared code from GrayscaleTransform.Shared project. This Windows Runtime Component doesn't work.
 
-To load and run these projects, you must use Visual Studio 2015. 
+To load and run these projects, you must use Visual Studio 2015 since Visual Studio 2013 does not support Windows 10 Universal projects and Visual Studio 2017 does not support Windows 8.1 project types. Visual Studio 2015 is the only version that supports both forms for Windows Runtime Components.
 
