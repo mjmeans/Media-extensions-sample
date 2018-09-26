@@ -166,9 +166,9 @@
       <Project>{838dceb2-5570-4011-93e8-a3ed27f4176c}</Project>
       <Name>GeometricSource.Windows</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MediaExtensions\GrayscaleTransform\GrayscaleTransform.Universal\GrayscaleTransform.Universal.vcxproj">
-      <Project>{30d6ba18-9672-419e-b1a9-89e532eb1708}</Project>
-      <Name>GrayscaleTransform.Universal</Name>
+    <ProjectReference Include="..\MediaExtensions\GrayscaleTransform\GrayscaleTransform.Windows\GrayscaleTransform.Windows.vcxproj">
+      <Project>{47b01318-9733-4276-9832-c03d5f292c2f}</Project>
+      <Name>GrayscaleTransform.Windows</Name>
     </ProjectReference>
     <ProjectReference Include="..\MediaExtensions\InvertTransform\InvertTransform.Windows\InvertTransform.Windows.vcxproj">
       <Project>{a6fba899-4690-43e2-959e-3aca0ae9267c}</Project>
